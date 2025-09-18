@@ -19,4 +19,5 @@ public class Main {
 			System.out.println(cp1.getMemoriaRAM().getCapacidade());
 			System.out.println(cp1.getMemoriaRAM().getTipo());
 		}
+		
 }
